@@ -1,4 +1,4 @@
-module github.com/poojasu16/lm-sdk-go
+module github.com/poojasu16/lm-sdk-go/v3
 
 go 1.15
 
