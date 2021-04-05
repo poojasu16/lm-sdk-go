@@ -1,4 +1,4 @@
-module github.com/logicmonitor/lm-sdk-go
+module github.com/poojasu16/lm-sdk-go
 
 go 1.15
 
